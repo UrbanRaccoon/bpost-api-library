@@ -1,5 +1,5 @@
 {
-  "name": "antidot-be/bpost-api-library",
+  "name": "UrbanRaccoon/bpost-api-library",
   "version": "3.4.10",
   "type": "library",
   "description": "bpost API library is a PHP library to communicate with the bpost API.",
@@ -8,17 +8,7 @@
   "authors": [
     {
       "name": "Raphaël Pommier",
-      "email": "rpommier@antidot.com",
-      "role": "Developer"
-    },
-    {
-      "name": "kouinkouin",
-      "email": "me@kouinkouin.com",
-      "role": "Developer"
-    },
-    {
-      "name": "Tijs Verkoyen",
-      "email": "bpost@verkoyen.eu",
+      "email": "pieter.marchand@yeastconsulting.be",
       "role": "Developer"
     }
   ],
@@ -26,7 +16,7 @@
     "php": ">=5.3.0",
     "ext-curl": "*",
     "ext-mbstring": "*",
-    "psr/log": "^1.0",
+    "psr/log": "~3.0",
     "ext-dom": "20031129",
     "ext-SimpleXML": "*"
   },
