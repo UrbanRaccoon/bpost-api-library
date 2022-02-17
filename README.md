@@ -15,7 +15,7 @@ _bpost API library_ is a PHP library which permit to your PHP application to com
 ## Installation
 
 ```bash
-composer require antidot-be/bpost-api-library
+composer require urbanraccoon/bpost-api-library
 ```
 
 ## Usages
